@@ -1,4 +1,4 @@
-# Sistema Épico
+# Sistema Practicas Profesionalizantes
 
 Sistema de escritorio para la **gestión de usuarios** y la **gestión de proveedores**.
 
